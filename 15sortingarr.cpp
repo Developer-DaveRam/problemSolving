@@ -3,6 +3,8 @@
 using namespace std;
 
 int main(){
+
+    
     
     int arr[]={45,67,87,90,1,2};
 
