@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class pattern1 {
 
+    
+
+
     public static void main(String[] args) {
 
         Scanner nume = new Scanner(System.in);
