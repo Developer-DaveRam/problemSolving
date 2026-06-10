@@ -18,6 +18,7 @@ int main(){
 
       for(int i=2;i<n;i++){
           
+        
           if(n%i==0){
               
             for(int j =2 ;j<i;j++){
@@ -25,7 +26,7 @@ int main(){
                 if(i%j==0){
                 flag=1;
                 }
-                
+
             }
             if(flag==0){
                arr[k]=i;
