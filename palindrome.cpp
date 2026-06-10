@@ -6,6 +6,9 @@ int main(){
     cout<<"Enter any string "<<endl;
     string s;
     cin>>s;
+
+
+
      
     string check = s;
 
@@ -22,6 +25,9 @@ int main(){
         ptr2--;
         
     }
+
+
+    
      
     if(check==s){
 

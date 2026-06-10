@@ -19,9 +19,7 @@ int main(){
         count++;
 
       }
-
        temp=i;
-       
        s=0;
 
        while(temp!=0){
@@ -44,11 +42,7 @@ int main(){
 
 
     }
-
-
     
-    
-
     for(int i=0;i<k;i++){
 
         cout<<arr[i]<<" ";

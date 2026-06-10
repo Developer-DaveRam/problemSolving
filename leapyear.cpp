@@ -10,11 +10,11 @@ int main(){
     if(year%4 ==0 && year%100 !=0 || year%400==0){
         cout<<"its Leap YEar"<<endl;
     }
-
+      
     else{
         cout<<"Its not Leap Year"<<endl;
     }
-
+  
 }
 
 
