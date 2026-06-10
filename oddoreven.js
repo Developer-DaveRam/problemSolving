@@ -1,3 +1,6 @@
+
+
+
 function checkOddEven(number){
     if(number % 2 === 0 ){
          return "even"
